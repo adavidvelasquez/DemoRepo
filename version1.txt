@@ -1,2 +1,3 @@
 Hola mundo version 1 qa
 se agrega la regla de pullreques
+se agrega la regla de pullreques v2
